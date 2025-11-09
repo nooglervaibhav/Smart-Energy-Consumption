@@ -1,6 +1,6 @@
 # Smart-Energy-Consumption
 
-# Energy Consumption Prediction using Machine Learning
+
 ## Time Series Forecasting (LSTM)
 
 This research was done as part of a research seminar course at LAB University of Applied Science (fall 2022).
